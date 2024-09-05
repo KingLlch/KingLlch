@@ -1,7 +1,7 @@
 ## Hello! Здравствуйте!
 
 I'm learning Unity. In the repositories below you can familiarize yourself with my works created to master theoretical knowledge. Each repository has a GIF file to demonstrate the final result.
-!--
+/n
 Я изучаю Unity. В репозиториях ниже вы можете ознакомится с моими работами, созданными для усвоения теоретических знаний. В каждом репозитории есть Gif-файл для демонстрации итогового результата.
 
 
